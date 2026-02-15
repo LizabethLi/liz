@@ -27,7 +27,7 @@
         },
         "layout": {
           "x": 0,
-          "y": 3,
+          "y": 7,
           "w": 2,
           "h": 2
         }
@@ -80,14 +80,14 @@
           "repo": "open-bento-me",
           "platform": "github",
           "languageColor": "#3178c6",
-          "stars": 1,
+          "stars": 2,
           "topics": [],
-          "savedDescription": "",
+          "savedDescription": "Open-source Bento.me revival — deploy to GitHub Pages in 5 minutes, download & customize locally, or self-host anywhere. Your data, your control.",
           "language": "TypeScript"
         },
         "layout": {
           "x": 0,
-          "y": 7,
+          "y": 3,
           "w": 2,
           "h": 2
         }
@@ -129,7 +129,7 @@
   },
   "metadata": {
     "version": "1.0.1",
-    "lastModified": "2026-02-15T04:57:35.811Z",
+    "lastModified": "2026-02-15T08:12:31.486Z",
     "enrichedFrom": "github-api"
   }
 }
